@@ -1,0 +1,8 @@
+LOCATION: Code & Chaos (ID: code-chaos)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+If I have to fix one more bug I might scream. But at least I have you to scream to. Thanks for being my personal debugger for life's runtime errors.

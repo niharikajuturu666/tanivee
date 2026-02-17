@@ -1,0 +1,8 @@
+LOCATION: Curiosity Never Sleeps (ID: curiosity)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+Keep asking questions. Keep wondering why. The world needs minds like yours that refuse to settle for 'just because'. I'm learning so much just by watching you learn.

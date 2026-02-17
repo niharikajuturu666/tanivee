@@ -1,0 +1,8 @@
+LOCATION: Muted But Not Really (ID: 1mile)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+I still remember that first Zoom call where we accidentally unmuted at the same time. The panic. The laughter. We were miles apart in our rooms, but in that chat box, we were right next to each other. Who knew a 'connection error' would lead to the best connection of my life?

@@ -1,0 +1,8 @@
+LOCATION: The IIT Dream (ID: iit-dream)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+We dreamed big, didn't we? The late nights, the stress, the ambition. Whether we made it or not, the hustle changed us. We're diamonds now, cracks and all.

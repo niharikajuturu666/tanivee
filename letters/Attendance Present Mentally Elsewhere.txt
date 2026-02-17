@@ -1,0 +1,8 @@
+LOCATION: Attendance: Present, Mentally Elsewhere (ID: attendance-present)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+You know, I don't remember a single thing Mr. Sharma taught us that year. But I remember every song you recommended during Biology. I remember waiting for your name to pop up in the participants list. School was boring, but you made the waiting worth it.

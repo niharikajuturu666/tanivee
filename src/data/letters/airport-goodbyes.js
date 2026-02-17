@@ -1,0 +1,5 @@
+export default {
+    from: "Me",
+    to: "You",
+    content: `I hate airports. They symbolize the end of 'us' in the same room. But they also symbolize the beginning of 'us' everywhere. You took a piece of home with you, you know. Take care of it.`
+};

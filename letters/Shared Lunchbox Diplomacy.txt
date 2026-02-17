@@ -1,0 +1,8 @@
+LOCATION: Shared Lunchbox Diplomacy (ID: shared-lunchbox)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+I still contend that your mom's cooking was better than mine. But hey, sharing food is a love language, right? Those lunch breaks were the highlight of my entire day. Not because of the food, but because it was *our* time.

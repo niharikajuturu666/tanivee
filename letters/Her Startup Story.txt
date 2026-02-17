@@ -1,0 +1,8 @@
+LOCATION: Her Startup Story (ID: her-startup)
+==================================================
+
+FROM: Me
+TO: You
+
+CONTENT:
+Watching you build something from nothing is inspiring. You're not just following a path, you're paving one. Don't forget us little people when you're famous.
