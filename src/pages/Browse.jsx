@@ -59,7 +59,7 @@ const Browse = () => {
             <Navbar />
             <Billboard era={billboardFilm} />
 
-            <div className="pb-40 relative z-20 pl-4 md:pl-16 -mt-10 md:-mt-24 lg:-mt-32 space-y-8 md:space-y-16">
+            <div className="pb-40 relative z-20 pl-4 md:pl-16 -mt-4 md:-mt-10 lg:-mt-16 space-y-8 md:space-y-16">
 
                 {/* Primary Row: Specific to this Profile */}
                 {profileFilms.length > 0 && (
