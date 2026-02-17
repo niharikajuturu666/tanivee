@@ -30,9 +30,9 @@ const Billboard = ({ era }) => {
             <div className="absolute bottom-0 inset-x-0 h-48 bg-gradient-to-t from-[#141414] to-transparent z-[1]"></div>
 
             {/* Content Layer */}
-            <div className="absolute top-[25%] md:top-[20%] left-4 md:left-12 z-10 w-full md:w-[55%] lg:w-[50%] flex flex-col gap-3 md:gap-5">
+            <div className="absolute top-[30%] md:top-[25%] left-4 md:left-12 z-10 w-full md:w-[45%] lg:w-[40%] flex flex-col gap-4">
                 {/* Title */}
-                <h1 className="text-4xl md:text-6xl lg:text-7xl xl:text-8xl font-black text-white drop-shadow-lg leading-[1.1] tracking-tighter animate-fade-in-slow uppercase">
+                <h1 className="text-5xl md:text-7xl lg:text-8xl font-black text-white drop-shadow-lg leading-[0.9] md:leading-[0.9] tracking-tighter animate-fade-in-slow normal-case">
                     {era.title}
                 </h1>
 

@@ -56,7 +56,7 @@ const EraPage = () => {
                 </div>
 
                 <div className="absolute bottom-0 left-0 p-4 md:p-12 lg:p-16 w-full md:w-3/4 lg:w-2/3 space-y-6">
-                    <h1 className="text-4xl md:text-6xl font-black drop-shadow-lg leading-tight md:leading-snug">{film.title}</h1>
+                    <h1 className="text-4xl md:text-6xl font-black drop-shadow-lg leading-tight md:leading-snug normal-case">{film.title}</h1>
 
                     <div className="flex items-center flex-wrap gap-4 text-sm md:text-base text-gray-300 font-medium">
                         <span className="text-green-400 font-bold">98% Match</span>
